@@ -1,0 +1,2 @@
+# knot
+Just only symlink.
